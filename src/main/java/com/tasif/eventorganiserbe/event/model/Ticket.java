@@ -19,5 +19,13 @@ public class Ticket {
 
 	private long eventId;
 
+	private String eventName;
+
+	private String eventDate;
+	
+	private String price;
+
 	private long userId;
+
+	private boolean isBooked;
 }
